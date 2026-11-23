@@ -92,4 +92,5 @@ Both editions share the exact same portable Windows x64 binary, telemetry engine
 
 - **Bug reports & panel compatibility requests:** Open an issue in the [Issues](../../issues) tab.
 - **Downloads & updates:** [corelabsstudio.gumroad.com](https://corelabsstudio.gumroad.com)
-**Live 30s Hardware Demo (TURZX 9.2"):** [https://www.youtube.com/watch?v=El2y3cL4K0I](https://www.youtube.com/watch?v=El2y3cL4K0I))
+**Live 30s Hardware Demo (TURZX 9.2"):**
+ https://youtu.be/El2y3cL4KOI?is=9L4lgLEsWMPYtMbs
