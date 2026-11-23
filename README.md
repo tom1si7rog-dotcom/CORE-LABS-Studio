@@ -15,7 +15,12 @@ No installer. No cloud account. No subscription. No background bloat.
 ![CORE LABS Studio 15 Public Themes](assets/public_theme_gallery.png)
 *Renderer sample data shown across all 15 public themes (portrait & landscape, dark & light).*
 
+![CORE LABS Studio 15 Public Themes](06_theme_gallery.jpg)
 ---
+
+![Render Preview UI](02_render_preview.jpg)
+
+![Portrait Layouts](04_portrait.jpg)
 
 ## Key Features
 
@@ -26,6 +31,10 @@ No installer. No cloud account. No subscription. No background bloat.
 - **Multi-Language UI:** English, Czech, and German localization.
 
 ### Frametime & Workstation Views
+![ESPORTS FRAME Frametime Detail](03_frame_timing.jpg)
+
+![WORKSTATION PRO Light Theme](05_workstation.jpg)
+
 
 ![ESPORTS FRAME Frametime Detail](assets/frame_time_detail.png)
 
