@@ -86,7 +86,20 @@ Both editions share the exact same portable Windows x64 binary, telemetry engine
   c322abb22a4e0de812b90a2d635b0b2f8fcfddb6c2b085456993e5c090612836
   ```
 
----
+---### Security, SHA-256 Verification & Windows Defender Note
+**CORE LABS Studio** is an unsigned, offline, portable Windows x64 application. Because it reads low-level hardware sensors and—only when you explicitly enable **Start with Windows**—registers a Windows Task Scheduler entry (`CORE_LABS_Autostart_*`) to launch cleanly without a UAC prompt, **Microsoft Defender** may heuristically trigger a false-positive warning (`Trojan:Win32`).
+
+* The official `v0.5.34` binary has been submitted to **Microsoft Security Intelligence** for whitelist review.
+* If Defender flags the app when enabling autostart, add your `CORE_LABS` folder to Windows Security exclusions and re-toggle **Start with Windows** as Administrator.
+* You can verify the integrity of the official release archive in PowerShell before running:
+
+```powershell
+Get-FileHash .\CORE_LABS_0.5.34_STUDIO_WINDOWS_X64_PORTABLE.zip -Algorithm SHA256
+```
+
+Expected `SHA-256` (`CORE_LABS_0.5.34_STUDIO_WINDOWS_X64_PORTABLE.zip`):
+`c322abb22a4e0de812b90a2d635b0b2f8fcfddb6c2b085456993e5c090612836`
+
 
 ## Support & Feedback
 
