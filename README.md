@@ -36,10 +36,6 @@ No installer. No cloud account. No subscription. No background bloat.
 ![WORKSTATION PRO Light Theme](05_workstation.jpg)
 
 
-![ESPORTS FRAME Frametime Detail](assets/frame_time_detail.png)
-
-![WORKSTATION PRO Light Theme](assets/workstation_light.png)
-
 ---
 
 ## Hardware Compatibility (v0.5.34)
