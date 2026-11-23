@@ -12,7 +12,7 @@ No installer. No cloud account. No subscription. No background bloat.
 
 ## 15 Built-In Public Themes (8 FREE + 7 PRO)
 
-![CORE LABS Studio 15 Public Themes](assets/public_theme_gallery.png)
+
 *Renderer sample data shown across all 15 public themes (portrait & landscape, dark & light).*
 
 ![CORE LABS Studio 15 Public Themes](06_theme_gallery.jpg)
